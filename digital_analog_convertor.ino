@@ -5,7 +5,7 @@
 int timer = 100;
 
 void setup() {
-    //set the Digital Pins D2 to D6
+    //set the Digital Pins D2 tao D6
     for(int thisPin = 2; thisPin < 6; thisPin++){
       pinMode(thisPin, OUTPUT);
     }
