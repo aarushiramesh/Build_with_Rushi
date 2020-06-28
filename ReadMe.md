@@ -4,4 +4,4 @@ Hello! welcome to the #buildwithRushi series!! this is just a fun little series 
 
 ![buildwithrushi border](buildwithrushi.png)
 
-Check out rushiblogs.weebly.com/buildwithrushi for more info and tutorials! Thank you!
+Check out [link]rushiblogs.weebly.com/buildwithrushi for more info and tutorials! Thank you!
