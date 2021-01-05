@@ -13,4 +13,4 @@ Check out [link](rushiblogs.weebly.com/buildwithrushi) for more info and tutoria
 4. Slap Jack C++ Simulation: Click [here](https://youtu.be/T-2g_XD7mdE)
 5. An SSH Server in your Home Computer: Click [here](http://rushiblogs.weebly.com/buildwithrushi.html)
 6. Grade Calculator using a Quick Python Script: Click [here](https://youtu.be/C4OqY0o8pPo)
-7. Deep Learning with Fashion MNIST: Click [here] (rushiblogs.weebly.com/buildwithrushi)
+7. Deep Learning with Fashion MNIST: Click [here](https://rushiblogs.weebly.com/buildwithrushi)
