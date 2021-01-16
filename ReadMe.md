@@ -1,6 +1,8 @@
 # Build with Rushi
 
-Hello! welcome to the #[buildwithrushi](rushiblogs.weebly.com/buildwithrushi) series!! this is just a fun little series of me on the journey of building cool things with micro-controllers & computers!! come and join me, i'll be filming and posting something cool once a week :)
+Hello! welcome to the #[buildwithrushi](rushiblogs.weebly.com/buildwithrushi) series!! This is just a fun little series of building cool things with micro-controllers & computers!! 
+
+This series has now concluded, with 7 fun and detailed episodes shown below!
 
 ![buildwithrushi border](buildwithrushi.png)
 
